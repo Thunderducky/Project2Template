@@ -9,6 +9,7 @@ it should look something like this
 SESSION_SECRET=SomethingBesidesKeyboardCat
 LOCALDB_URL=mysql://root:dbpassword@localhost:3306/Project2Dev
 ```
+**NOTE** Do *not* check in your `.env` file into source control, it is particular to *your* environment.
 
 ## Scripts
 ### Install
